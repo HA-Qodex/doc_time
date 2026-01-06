@@ -28,6 +28,7 @@ DocTime is a high-performance, production-ready video calling application built 
 <p align="center">
   <img src="./screenshots/screenshot_1.png" height="723" alt=""/>
   <img src="./screenshots/screenshot_2.png" height="723" alt=""/>
+  <img src="./screenshots/screenshot_3.png" height="723" alt=""/>
 </p>
 
 ## Installation & Setup
