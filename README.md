@@ -2,7 +2,7 @@
 
 DocTime is a high-performance, production-ready video calling application built with **Flutter** and **Agora RTC SDK**. It features a modern UI, clean architecture, and reactive state management using **Riverpod**.
 
-## 🚀 Features
+## Features
 
 - **High-Quality Video/Audio Calls**: Seamless 1-to-1 calling powered by Agora.
 - **Real-time Controls**: 
@@ -16,7 +16,7 @@ DocTime is a high-performance, production-ready video calling application built 
 - **Clean Architecture**: Decoupled business logic from UI using `AsyncNotifier` and Repository patterns.
 - **Permission Handling**: Integrated management for Camera and Microphone access.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **Real-time Communication**: [Agora RTC Engine](https://pub.dev/packages/agora_rtc_engine)
@@ -53,7 +53,7 @@ flutter pub get
 flutter run
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -67,7 +67,7 @@ lib/
 └── widget/         # Reusable UI components (ControlButtons, etc.)
 ```
 
-## 🛡️ Permissions
+## Permissions
 
 This app requires the following permissions:
 - **Camera**: For video streaming.
@@ -75,7 +75,7 @@ This app requires the following permissions:
 
 Ensure you have updated your `Info.plist` (iOS) and `AndroidManifest.xml` (Android) with the necessary privacy keys.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -85,9 +85,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 Distributed under the MIT License.
 
 ---
-Built with ❤️ by [Your Name/GitHub Handle]
+Built with ❤️ by [HA-Qodex](https://github.com/HA-Qodex/)
